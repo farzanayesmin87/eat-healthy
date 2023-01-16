@@ -1,0 +1,29 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h1{
+    font-size: 200%;
+}
+.tomato-color{
+    color: tomato;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700px;
+    padding: 20% ,40%;
+    border-radius: 50px;
+
+}
