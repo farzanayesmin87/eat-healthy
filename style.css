@@ -8,7 +8,7 @@ h1{
 .tomato-color{
     color: tomato;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 200px;
 }
@@ -37,4 +37,15 @@ section{
 .about-me{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
+}
+.my-recipe{
+    text-align: center;
+}
+.recipe-item{
+width: 40;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 20px;
+box-shadow: 10px 10px 40px gray;
+
 }
